@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "commander": "~2.1.0",
-    "mocha": "~1.17.0",
+    "mocha": "~4.0.0",
     "xml2js": "~0.4.1",
     "csv": "~0.3.6",
     "entities": "~0.3.0"
